@@ -1,0 +1,13 @@
+# Site settings
+title: Pranav Maneriker
+email: mpranav@iitk.ac.in
+email2: pranavmane@gmail.com
+description: 
+baseurl: "http://home.iitk.ac.in/~mpranav" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: PM_1729
+github_username:  pranavmaneriker
+footertitle: Contact
+
+# Build settings
+markdown: kramdown

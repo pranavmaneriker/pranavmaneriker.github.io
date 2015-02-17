@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-02-01 03:46:00
+categories: jekyll update
+tags-main: intro
+---
+
+This website is built using [jekyll][jekyll-gh]. 
+
+The content is written in markdown.
+
+###Old content
+
+ * [CS300A](http://home.iitk.ac.in/~mpranav/cs300A)
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
