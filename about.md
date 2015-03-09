@@ -10,8 +10,8 @@ I am a third year undergraduate in the Department of Computer Science and Engine
 
 My interests include algorithms, graphics and machine learning.
 
-Apart from that, I enjoy squash, Rubik's Cubes, snooker and reading (mostly fiction). 
+Apart from that, I enjoy squash, speedcubing, snooker and reading (mostly fiction). 
 
-Most of my projects can be foundo at the github link given in the footer. 
+Some of my projects can be found at the github link given in the footer.
 
 [Photo]:{{ site.baseurl }}/assets/photo.jpg
