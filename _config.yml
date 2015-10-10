@@ -3,11 +3,12 @@ title: Pranav Maneriker
 email: mpranav@iitk.ac.in
 email2: pranavmane@gmail.com
 description: 
-#baseurl: "http://home.iitk.ac.in/~mpranav" # the subpath of your site, e.g. /blog/
-baseurl: "" #config for local testing
+baseurl: "http://home.iitk.ac.in/~mpranav" # the subpath of your site, e.g. /blog/
+#baseurl: "" #config for local testing
 url: "" # the base hostname & protocol for your site
 twitter_username: PM_1729
 github_username:  pranavmaneriker
+gitlab_username:  pranavmane
 footertitle: Contact
 
 # Build settings
