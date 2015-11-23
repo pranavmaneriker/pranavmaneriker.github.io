@@ -8,9 +8,11 @@ permalink: /about/
 
 I am a fourth year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. 
 
+I should (hopefully) graduate with a minor in Literature.
+
 My interests include algorithms, graphics, parallelisation and machine learning.
 
-Apart from that, I enjoy squash, speedcubing, snooker and reading (mostly fiction). 
+Apart from that, I enjoy squash, speedcubing, chess, snooker and reading (mostly fiction). 
 
 Some of my projects can be found at the github link given in the footer.
 
