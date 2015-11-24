@@ -3,6 +3,7 @@ layout: post
 title:  "Random tmux tip"
 date:   2015-10-16 23:00:00
 categories: jekyll update
+comments: true
 tags-main: tmux multiple
 ---
 

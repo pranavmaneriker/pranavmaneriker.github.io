@@ -3,12 +3,13 @@ layout: post
 title:  "Sentient Computers (over SSH)"
 date:   2015-03-09 20:50:00
 categories: jekyll update
+comments: true
 tags-main: senti-comps
 ---
 
 Note: The author takes no responsibility in case this trick is used for malicious purposes.
 
-I was successful in convincing one of my friends(but only for a while) that my computer become sentient. Later, he was convinced that I had written a powerful ML program.
+I was successful in convincing one of my friends(but only for a while) that my computer became sentient. Later, he was convinced that I had written a powerful ML program.
 
 The answer, ofcourse, was much simpler. 
 
