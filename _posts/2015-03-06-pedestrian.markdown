@@ -3,7 +3,7 @@ layout: post
 title:  "A Pedestrian Article"
 date:   2015-03-06 21:16:00
 comments: true
-categories: jekyll update
+categories: road walk
 tags-main: pedestrian
 ---
 

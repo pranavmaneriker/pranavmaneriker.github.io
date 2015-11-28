@@ -2,7 +2,7 @@
 layout: post
 title:  "Sentient Computers (over SSH)"
 date:   2015-03-09 20:50:00
-categories: jekyll update
+categories: ssh espeak
 comments: true
 tags-main: senti-comps
 ---
