@@ -6,8 +6,53 @@ permalink: /projects/
 
 ##Computer Science and Engineering
 
+###**SAT solving on GPUs**
+_CS498: Undergraduate Project, Fall '15_
+
+WIP
+
+***
+
+###[**SVM approximation methods**](../assets/cs678-report.pdf)
+
+_CS 678: Learning with Kernels, Fall '15_
+
+A (theoretical) study and comparison of DC-Pred++ and LDKL. The report includes the history and origin of the algorithms as well as how they compare in performance.
+
+The presentation for the project can be found [here](../assets/cs678-pres.pdf)
+
+
+***
+
+###[**Mozart/Oz**](https://gitlab.com/pranavmane/CS350)
+
+_CS 350: Principles of Programming Languages, Fall '15_
+
+Some problems whose solutions are implemented in Oz. Also includes an interpreter for the declarative semantic model of Oz (including threads).
+
+Oz has a well-specified declarative semantic model.
+
+
+***
+
+###[**Reinforcement Learning in Haskell**](https://github.com/arnabgho/RLearnHaskell)
+
+_CS 653: Functional Programming, Fall '15_
+
+A library for reinforcement learning in Haskell. Implementation of SARSA, QLearn and an example game (cat and mouse).
+
+The goal was to add the algorithms into HLearn, but a lot of work remains before that can be done.
+
+[This poster](../assets/poster-cs653.pdf) accompanied the final presentation for this project.
+
+Note: The content is based on the notes and programs given [here](http://www.cse.unsw.edu.au/~cs9417ml/RL1/).
+
+
+***
 
 ###**Scene Classification**
+
+_CS 679: Machine Learning for Computer Vision, Winter '14_
 
 Implementation of the paper - Bayesian Hierarchical Models for Natural Scene Classification (Fei-Fei Li, Pietro Perona).
 
@@ -19,7 +64,7 @@ Done in Matlab.
 
 ###[**Java Compiler**](https://gitlab.com/sara_polyn/cs335-course-project)
 
-_CS 335: Compilers_
+_CS 335: Compilers, Winter '14_
 
 Compiler for a subset of Java to MIPS written in C++
 
@@ -28,7 +73,7 @@ Supports looping expressions, type checking, primitive datatypes, 1D arrays and 
 ***
 
 ###[**Pogo-Flip**](https://github.com/pranavmaneriker/pogo-flip)
-_CS 360: Introduction to Computer Graphics_
+_CS 360: Introduction to Computer Graphics, Fall '14_
 
 A game using the core OpenGL API
 
