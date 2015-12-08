@@ -28,7 +28,7 @@ The presentation for the project can be found [here](../assets/cs678-pres.pdf)
 
 _CS 350: Principles of Programming Languages, Fall '15_
 
-Some problems whose solutions are implemented in Oz. Also includes an interpreter for the declarative semantic model of Oz (including threads).
+Some problems whose solutions are implemented in Oz. Also includes an interpreter for the declarative semantic model of Oz (including threads) written in Oz.
 
 Oz has a well-specified declarative semantic model.
 
