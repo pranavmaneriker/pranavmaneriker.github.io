@@ -10,7 +10,7 @@ I am a fourth year undergraduate in the Department of Computer Science and Engin
 
 I should (hopefully) graduate with a minor in Literature.
 
-My interests include algorithms, graphics, parallelisation and machine learning.
+My interests include parallelisation, functional programming and machine learning.
 
 Apart from that, I enjoy squash, speedcubing, chess, snooker and reading (mostly fiction). 
 
