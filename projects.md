@@ -4,16 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-##Computer Science and Engineering
+## Computer Science and Engineering
 
-###**SAT solving on GPUs**
+### **SAT solving on GPUs**
 _CS498: Undergraduate Project, Fall '15_
 
 WIP
 
 ***
 
-###[**SVM approximation methods**](../assets/cs678-report.pdf)
+### [**SVM approximation methods**](../assets/cs678-report.pdf)
 
 _CS 678: Learning with Kernels, Fall '15_
 
@@ -24,7 +24,7 @@ The presentation for the project can be found [here](../assets/cs678-pres.pdf)
 
 ***
 
-###[**Mozart/Oz**](https://gitlab.com/pranavmane/CS350)
+### [**Mozart/Oz**](https://gitlab.com/pranavmane/CS350)
 
 _CS 350: Principles of Programming Languages, Fall '15_
 
@@ -35,7 +35,7 @@ Oz has a well-specified declarative semantic model.
 
 ***
 
-###[**Reinforcement Learning in Haskell**](https://github.com/arnabgho/RLearnHaskell)
+### [**Reinforcement Learning in Haskell**](https://github.com/arnabgho/RLearnHaskell)
 
 _CS 653: Functional Programming, Fall '15_
 
@@ -50,7 +50,7 @@ Note: The content is based on the notes and programs given [here](http://www.cse
 
 ***
 
-###**Scene Classification**
+### **Scene Classification**
 
 _CS 679: Machine Learning for Computer Vision, Winter '14_
 
@@ -62,7 +62,7 @@ Done in Matlab.
 
 ***
 
-###[**Java Compiler**](https://gitlab.com/sara_polyn/cs335-course-project)
+### [**Java Compiler**](https://gitlab.com/sara_polyn/cs335-course-project)
 
 _CS 335: Compilers, Winter '14_
 
@@ -72,7 +72,7 @@ Supports looping expressions, type checking, primitive datatypes, 1D arrays and 
 
 ***
 
-###[**Pogo-Flip**](https://github.com/pranavmaneriker/pogo-flip)
+### [**Pogo-Flip**](https://github.com/pranavmaneriker/pogo-flip)
 _CS 360: Introduction to Computer Graphics, Fall '14_
 
 A game using the core OpenGL API
@@ -83,7 +83,7 @@ Implementes basic physics, texture loading, a navigable (3d) camera and blinn-ph
 
 ***
 
-###[**Template Creator**](https://github.com/pranavmaneriker/template-creator)
+### [**Template Creator**](https://github.com/pranavmaneriker/template-creator)
 
 _CS252: Computing Laboratory, Fall '14_
 
@@ -93,7 +93,7 @@ A [report](https://github.com/pranavmaneriker/template-creator/blob/master/final
 
 ***
 
-###[**NachOS**](https://gitlab.com/pranavmane/nachosassignment2.git)
+### [**NachOS**](https://gitlab.com/pranavmane/nachosassignment2.git)
 _CS330: Operating Systems, Fall '14_
 
 Linked here is the second assignment of three assignments that included implementations of:
@@ -105,13 +105,13 @@ Linked here is the second assignment of three assignments that included implemen
 
 ***
 
-###[**Rubik's Pocket Solver**](https://github.com/pranavmaneriker/RubiksPocketSolver)
+### [**Rubik's Pocket Solver**](https://github.com/pranavmaneriker/RubiksPocketSolver)
 
 A solver for the 2x2x2 Rubik's Cube. A Breadth First Search based approach.
 
 ***
 
-###[**Gest-reco**](https://github.com/pranavmaneriker/gest-recof)
+### [**Gest-reco**](https://github.com/pranavmaneriker/gest-recof)
 
 _Programming Club, IIT Kanpur, Summer '13_
 
@@ -121,7 +121,7 @@ Colour filtering followed by a classifier trained with SVM.
 
 ***
 
-###**PseudoGit**
+### **PseudoGit**
 
 _ESc 101: Fundamentals of Computing, Fall '12_
 
@@ -130,9 +130,9 @@ Java, MySQL based implementation of basic version control features. Features imp
 ***
 ***
 
-##Other
+## Other
 
-###[**Fewest Moves**](https://prezi.com/cng_isud-im-/rubiks-cube-fewest-moves/)
+### [**Fewest Moves**](https://prezi.com/cng_isud-im-/rubiks-cube-fewest-moves/)
 
 A (somewhat) popular prezi about Rubik's Cube's Fewest Moves solving.
 
