@@ -10,6 +10,7 @@ twitter_username: PM_1729
 github_username:  pranavmaneriker
 gitlab_username:  pranavmane
 footertitle: Contact
+future: true
 
 # Build settings
 markdown: kramdown

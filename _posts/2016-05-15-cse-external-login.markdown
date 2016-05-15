@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Logging into the CSE IITK network from outside IITK"
-date:   2016-05-15 15:50:00
+date:   2016-05-15 00:00:00
 categories: ssh CSE IITK
 comments: true
 tags-main: ssh-cse
 ---
 
-A lot of people were facing issues in logging in to the CSE network from outside campus.
+A lot of people were facing issues when trying to log in to the CSE network from outside campus.
 
 You need to add your public key to the login.cse ssh folder. Here is a list of insturctions to help you do so:
 
