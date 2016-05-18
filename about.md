@@ -6,11 +6,11 @@ permalink: /about/
 
 ![Me][Photo]{: .circle-image}
 
-I am a fourth year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. 
+I am an undergraduate (just finished!) at the Department of Computer Science and Engineering at IIT Kanpur. 
 
-I should (hopefully) graduate with a minor in Literature.
+I have completed all requirements to graduate with a minor in Literature, so I'm hoping to.
 
-My interests include parallelisation, functional programming and machine learning.
+My interests include parallelisation, functional programming, cryptology, security and machine learning.
 
 Apart from that, I enjoy squash, speedcubing, chess, snooker and reading (mostly fiction). 
 

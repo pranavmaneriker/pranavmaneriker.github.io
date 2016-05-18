@@ -4,7 +4,7 @@ title: Resume
 permaink: /resume/
 ---
 
-_(Last updated: (Full): Apr 16 (Short):Apr 16)_  
+_(Last updated: (Full): Apr '16 (Short):Apr '16 (Latex):May '16)_  
 **[Full][resume full] | [Short][resume short] | [Latex][resume_latex]**
 
 [resume full]:assets/resume_full.pdf

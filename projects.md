@@ -6,6 +6,55 @@ permalink: /projects/
 
 ## Computer Science and Engineering
 
+### **[Batch Website](https://github.com/sid17/iitky12)**
+_Summer '16_
+
+This is a project thought up by some brilliant people. I'm one of the contributors to it. It allows anyone to setup a batch website free of cost,
+by using static site hosting provided by github. We did this in particular for our batch, which is available [here](http://sid17.github.io/iitky12/#/).
+
+Kudos to all the people who made this happen.
+
+***
+
+### **Breaking Cryptosystems**
+_CS641: Modern Cryptology, Winter '15_
+
+The 'assignment' in this course was a text adventure game which involved breaking various ciphers to clear a particular level. Over the 
+course of the semester, we broke:
+
+* Substitution cipher
+* Block substitution cipher
+* Substitution-Permutation cipher
+* DES (with differential cryptanalysis)
+* SASAS (AES like attack) cipher
+* RSA (with low public exponent, using coppersmiths LLL based attack)
+* A hash function
+
+The code and reports cannot be made public since the assignment is likely to be repeated in later versions of the course. Can be provided on legitimate requests.
+
+***
+
+### **[Capture The Flag](https://github.com/pranavmaneriker/cs628-ctf)**
+_CS628: Network and Systems Security, Winter '15_
+
+Although this is not really a 'project' in the true sense, I feel like it deserves to be here.
+A set of challenging and interesting tasks set as a part of a capture the flag contest which was one of the assignments
+in this course. The code and brief descriptions for the attacks can be found in the link given in the header.
+
+The other assignments in this course were based off MIT6.858 assignments.
+
+***
+
+### **[Data Compression using Probabilistic Inference](../assets/cs772-report.pdf)**
+_CS772: Probabilistic Machine Learning, Winter '15_
+
+A brief survey of the state of the art probabilistic lossless data compression algorithms and experiments
+with these algorithms. Covered nonparametric bayesian models, markov models and neural networks
+
+The poster for the project can be found [here](../assets/cs772-poster.pdf)
+
+***
+
 ### **SAT solving on GPUs**
 _CS498: Undergraduate Project, Fall '15_
 
@@ -59,6 +108,8 @@ Implementation of the paper - Bayesian Hierarchical Models for Natural Scene Cla
 The paper uses a bag-of-words model to classify natural scenes into various categories. 
 
 Done in Matlab. 
+
+The poster for this project can be found [here](http://pranavmaneriker.github.io/assets/cs679-poster.pdf)
 
 ***
 
