@@ -24,3 +24,5 @@ After spending some time to get the configuration fixed (windows ftw!) I can fin
 
 
 Link to set 1 [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set1/challenges.ipynb)
+
+[cryptopals-link]: https://cryptopals.com 
