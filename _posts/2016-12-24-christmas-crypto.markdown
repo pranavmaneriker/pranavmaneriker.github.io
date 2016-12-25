@@ -21,8 +21,10 @@ After spending some time to get the configuration fixed (windows ftw! \s) I can 
 * **Challenge 2:** the main issue is figuring out how XOR for unequal length strings is defined. The answer is: pad the shorter string with leading 0s. Pretty obvious, but important.
 * **Challenge 3:** Too much ambiguity => we get started with actual crypto. Brute forced this one first. Then had to run an errand. Finally, I wrote a metric. Due to dinner etc, wasted a lot of time here.
 * **Challenge 4:** This one was a short one. It's like 2:30 am now. The next one seems easy enough, but that's a tale for the morning.
+* **Challenge 5:** I'm going to cheat a little bit and assume that the latter part of the challenge is just a joke. After some stupid encoding mistakes, this one is done.
 
 
-Link to set 1 [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set1/challenges.ipynb)
+
+Link to  my set 1 solutions [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set1/challenges.ipynb)
 
 [cryptopals-link]: https://cryptopals.com 
