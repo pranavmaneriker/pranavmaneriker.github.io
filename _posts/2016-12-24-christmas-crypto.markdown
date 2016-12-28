@@ -28,10 +28,16 @@ After spending some time to get the configuration fixed (windows ftw! \s) I can 
 * **Challenge 8:** Seems so easy as compared to what lead up to here.
 
 
-Link to  my set 1 solutions [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set1/challenges.ipynb)
+Link to my set 1 solutions [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set1/challenges.ipynb)
 
 
 ---
+### Set 2 (block ciphers)
 
+* **Challenge 9:**: What is happening, why are these so much easier?
+* **Challenge 10:** Mostly copy/paste the right code, and a little bit of reading the CBC order of operations (do you take the XOR first, or later)
+
+
+Link to my set 2 solutions [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set2/challenges.ipynb)
 
 [cryptopals-link]: https://cryptopals.com 
