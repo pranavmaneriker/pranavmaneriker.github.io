@@ -36,7 +36,9 @@ Link to my set 1 solutions [here](https://github.com/pranavmaneriker/cryptopals/
 
 * **Challenge 9:**: What is happening, why are these so much easier?
 * **Challenge 10:** Mostly copy/paste the right code, and a little bit of reading the CBC order of operations (do you take the XOR first, or later)
-
+* **Challenge 11:** This problem uses the code from **Challenge 8**. Works out of the box.
+* **Challenge 12:** It's fun to watch the string as it's being decrypted. You keep hoping that it'll be something new, but of course, it's Vanilla Ice again.
+* **Challenge 13:** 
 
 Link to my set 2 solutions [here](https://github.com/pranavmaneriker/cryptopals/blob/master/set2/challenges.ipynb)
 
