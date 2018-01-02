@@ -6,14 +6,14 @@ permalink: /about/
 
 ![Me][Photo]{: .circle-image}
 
-I am an undergraduate (just finished!) at the Department of Computer Science and Engineering at IIT Kanpur. 
+I am currently working as Member of Technical Staff at Bid Data Experience Lab, Adobe Research, Bangalore. Most of my work is in natural language processing and statistical modelling. 
 
-I have completed all requirements to graduate with a minor in Literature, so I'm hoping to.
+I graduated with a Bachelor of Technology in Computer Science and Engineering from IIT Kanpur. I also completed all requirements for a minor in English Literature.
 
-My interests include parallelisation, functional programming, cryptology, security and machine learning.
+The areas that interest me are distributional semantics, the usage of style in text and text generation. 
 
-Apart from that, I enjoy squash, speedcubing, chess, snooker and reading (mostly fiction). 
+Apart from that, I enjoy squash, speedcubing, chess, snooker, reading (mostly fiction) and running. 
 
-Most of my projects can be found on the projects page, which is (not) updated regularly.
+The details of my publications are available in my resume. Most of my undergraduate projects can be found on the projects page. 
 
 [Photo]:{{ site.baseurl }}/assets/photo.jpg
