@@ -4,7 +4,7 @@ title: Resume
 permaink: /resume/
 ---
 
-(Last updated): Feb '19  
+(Last updated): Aug '19  
 **[Resume/CV][resume full]**
 
 [resume full]:assets/resume_full.pdf
