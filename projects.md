@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-## Computer Science and Engineering
+## Computer Science
+
+All of these projects describe work that I did as an undergrad at IIT Kanpur.
 
 ### **[Batch Website](https://github.com/sid17/iitky12)**
 _Summer '16_

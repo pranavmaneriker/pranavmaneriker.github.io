@@ -8,6 +8,8 @@ permalink: /about/
 
 I am currently a PhD student at The Ohio State University at Columbus, Ohio. My advisor is [Prof. Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
 
+My areas of interest lie in the intersection of natural language processing and machine learning.
+
 Previously, I was a Research Scientist at Big Data Experience Lab, Adobe Research, Bangalore. Most of my work there involved natural language processing and statistical modelling. 
 
 I graduated with a B. Tech. in Computer Science and Engineering and a minor in English Literature from IIT Kanpur.
