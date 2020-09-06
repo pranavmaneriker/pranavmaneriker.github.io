@@ -11,6 +11,10 @@ github_username:  pranavmaneriker
 gitlab_username:  pranavmane
 footertitle: Contact
 future: true
+collections:
+  publications:
+    output: true
 
 # Build settings
 markdown: kramdown
+

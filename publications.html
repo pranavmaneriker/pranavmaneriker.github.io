@@ -1,0 +1,22 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+Page under construction
+<div class="home">
+  <ul class="post-list">
+    {% assign sorted_pubs = site.publications | sort: 'data' | reverse %}
+    {% for pub in sorted_pubs %}
+      <li>
+        <span class="post-meta">{{ pub.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
