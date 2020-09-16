@@ -9,7 +9,7 @@ Page under construction
     {% assign sorted_pubs = site.publications | sort: 'data' | reverse %}
     {% for pub in sorted_pubs %}
       <li>
-          <span class="post-meta">[{{ pub.conf }}]</span>
+          <span class="post-meta">[{{ pub.conf }}] {{ pub.special }}</span>
           <span class="post-meta">{{ pub.date | date: "%b %-d, %Y" }} </span>
 
         <h2>
