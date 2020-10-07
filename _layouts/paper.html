@@ -9,6 +9,8 @@ layout: default
   </header>
     <br>
     {% if page.pdf %} <a href="{{ page.pdf }}"> [PDF] </a> {% endif %}
+    {% if page.link %} <a href="{{ page.link }}"> [Publication Link] </a> {% endif %}
+    {% if page.code %} <a href="{{ page.code }}"> [Code] </a> {% endif %}
   <article class="post-content">
     {{ content }}
   </article>

@@ -6,7 +6,8 @@ categories: demo
 comments: true
 authors: <b>P Maneriker</b>, N Vedula, H S Al-Olimat, J Liang, O El-Khoury, E Kubatko, D Liu, K Thirunarayan, V Shalin, A Sheth, S Parthasarathy
 conf: SIGIR 2019
-pdf: https://dl.acm.org/doi/abs/10.1145/3331184.3331405
+link: https://dl.acm.org/doi/abs/10.1145/3331184.3331405
+pdf: /assets/papers/sigir_2019_pipeline.pdf
 tags-main: demo
 ---
 
