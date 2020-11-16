@@ -10,11 +10,11 @@ I am currently a PhD student at The Ohio State University at Columbus, Ohio. My 
 
 My areas of interest lie in the intersection of natural language processing and machine learning.
 
-Previously (2016-2018), I was a Research Scientist at Big Data Experience Lab, Adobe Research, Bangalore. Most of my work there involved natural language processing and statistical modelling. 
-
-I have also spent two summers doing internships - as a applied scientist intern at the Buyer Fraud team at Amazon (under TRMS), and as a research intern under [Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/) at Microsoft Research.
-
 I graduated with a B. Tech. in Computer Science and Engineering and a minor in English Literature from IIT Kanpur.
+
+Previously (2016-2018), I was a Research Scientist at the Big Data Experience Lab, Adobe Research, Bangalore. Most of my work there involved natural language processing and statistical modelling. 
+
+I have also spent two grad school summers doing internships - as a applied scientist intern at the Buyer Fraud team at Amazon (under TRMS), and as a research intern under [Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/) at Microsoft Research.
 
 The details of my publications are available [here](https://scholar.google.com/citations?user=9t8gbkkAAAAJ&hl=en) and some selected publications are also in my resume. 
 
