@@ -14,7 +14,7 @@ I graduated with a B. Tech. in Computer Science and Engineering and a minor in E
 
 Previously (2016-2018), I was a Research Scientist at the Big Data Experience Lab, Adobe Research, Bangalore. Most of my work there involved natural language processing and statistical modelling. 
 
-I have also spent two grad school summers doing internships - as a applied scientist intern at the Buyer Fraud team at Amazon (under TRMS), and as a research intern under [Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/) at Microsoft Research.
+I have also spent two grad school summers doing internships - as a applied scientist intern at the Buyer Fraud team at Amazon in Seattle, WA, and as a research intern under [Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/) at Microsoft Research (remotely).
 
 The details of my publications are available [here](https://scholar.google.com/citations?user=9t8gbkkAAAAJ&hl=en) and some selected publications are also in my resume. 
 
