@@ -6,7 +6,7 @@ categories: shared-task
 comments: true
 authors: B Oh&#42;, <b>P Maneriker</b>&#42;, N Jiang&#42;
 conf: SIGMORPHON workshop, ACL 2019
-special: (&#42;shared first authorship)
+pagespecial: (&#42;shared first authorship)
 pdf: https://www.aclweb.org/anthology/W19-4210.pdf
 tags-main: nlp seq2seq
 ---
