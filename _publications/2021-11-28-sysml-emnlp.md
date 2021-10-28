@@ -1,0 +1,13 @@
+---
+layout: paper
+title: "SYSML: StYlometry with Structure and Multitask Learning: Implications for Darknet Forum Migrant Analysis"
+date:   2020-11-28
+categories: nlp+stylometry+graphs
+comments: true
+authors: <b>P Maneriker</b>, Y He, S Parthasarathy
+conf: EMNLP 2021
+pdf: https://arxiv.org/pdf/2104.00764
+tags-main: nlp style darknet graph
+---
+
+**Abstract:**  Darknet market forums are frequently used to exchange illegal goods and services between parties who use encryption to conceal their identities. The Tor network is used to host these markets, which guarantees additional anonymization from IP and location tracking, making it challenging to link across malicious users using multiple accounts (sybils). Additionally, users migrate to new forums when one is closed, making it difficult to link users across multiple forums. We develop a novel stylometry-based multitask learning approach for natural language and interaction modeling using graph embeddings to construct low-dimensional representations of short episodes of user activity for authorship attribution. We provide a comprehensive evaluation of our methods across four different darknet forums demonstrating its efficacy over the state-of-the-art, with a lift of up to 2.5X on Mean Retrieval Rank and 2X on Recall@10. 
