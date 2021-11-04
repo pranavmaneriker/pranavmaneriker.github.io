@@ -1,12 +1,12 @@
 ---
 layout: paper
 title: "SYSML: StYlometry with Structure and Multitask Learning: Implications for Darknet Forum Migrant Analysis"
-date:   2020-11-28
+date:   2020-11-20
 categories: nlp+stylometry+graphs
 comments: true
 authors: <b>P Maneriker</b>, Y He, S Parthasarathy
 conf: EMNLP 2021
-pdf: https://arxiv.org/pdf/2104.00764
+pdf: https://aclanthology.org/2021.emnlp-main.548.pdf
 tags-main: nlp style darknet graph
 ---
 
