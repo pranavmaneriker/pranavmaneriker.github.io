@@ -4,7 +4,7 @@ title: CV
 permaink: /CV/
 ---
 
-(Last updated): Apr '23
+(Last updated): Nov '23
 <!--**[CV][resume full]** -->
 **[Resume][r2page]**
 
