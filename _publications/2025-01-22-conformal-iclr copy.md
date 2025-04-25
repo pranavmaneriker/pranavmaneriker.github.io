@@ -2,13 +2,14 @@
 layout: paper
 title: "A Generic Framework for Conformal Fairness"
 date:   2025-01-22
-categories: large-scale time-series, incomplete time-series, time-series visualization, visualization analytics
+categories: conformal-prediction graphs fairness auditing
 comments: true
-authors: Hongjie Chen, Aaron D Beachnau, Panos Thomas, <b>Pranav Maneriker</b>, Josh Kimball, Ryan A Rossi
-conf: BigData 2024
-link: https://ieeexplore.ieee.org/abstract/document/10825096
-pdf: /assets/papers/bigdata_2024_liveits.pdf
-tags-main: time-series, visualization
+authors: Aditya T. Vadlamani&#42;, Anutam Srinivasan&#42;, <b>Pranav Maneriker</b>, Ali Payani, Srinivasan Parthasarathy
+conf: ICLR 2025
+pagespecial: (&#42;shared first authorship)
+link: https://openreview.net/forum?id=Ed1DBB3sBxiQNfYl33p
+pdf: /assets/papers/iclr_2025_conformal.pdf
+tags-main: conformal, graph
 ---
 
 **Abstract:**

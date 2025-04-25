@@ -191,6 +191,4 @@ A (somewhat) popular prezi about Rubik's Cube's Fewest Moves solving.
 
 The original purpose was for a lecture I took at the Rubik's Cube Hobby Group, IIT Kanpur.
 
-**Page under construction**
-
 

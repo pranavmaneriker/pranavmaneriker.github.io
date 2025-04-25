@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 ![Me][Photo]{: .circle-image}
 
 I am a Senior Researcher at Dolby Laboratories in Atlanta, GA. 

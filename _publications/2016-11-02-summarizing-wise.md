@@ -6,6 +6,7 @@ categories: nlp multimodal
 comments: true
 authors: N Modani, <b>P Maneriker</b>, G Hiranandani, A R Sinha, Utpal, V Subramanian, S Gupta
 conf: WISE 2016
+link: https://dl.acm.org/doi/abs/10.1007/978-3-319-48743-4_27
 pdf: /assets/papers/wise_2016_summarizing.pdf 
 tags-main: nlp summarization multimodal graph
 ---

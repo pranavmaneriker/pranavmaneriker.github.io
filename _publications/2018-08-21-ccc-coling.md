@@ -6,7 +6,8 @@ categories: nlp
 comments: true
 authors: BV Srinivasan, <b>P Maneriker</b>, K Krishna, N Modani
 conf: COLING 2018
-pdf: https://www.aclweb.org/anthology/C18-1297.pdf
+link: https://www.aclweb.org/anthology/C18-1297
+pdf: assets/papers/coling_2018_corpus.pdf
 tags-main: nlp summarization expansion nlg
 ---
 
