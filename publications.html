@@ -3,10 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Page under construction
+
 <div class="home">
+  For the most updated list, check  <a href="https://scholar.google.com/citations?hl=en&user=9t8gbkkAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+  <br/> <br/>
+
   <ul class="post-list">
-    {% assign sorted_pubs = site.publications | sort: 'data' | reverse %}
+    {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
     {% for pub in sorted_pubs %}
     <li>
         <span class="post-meta">[{{ pub.conf }}] </span> <a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a> 

@@ -4,10 +4,10 @@ title: "Benchmarking and Analyzing Unsupervised Network Representation Learning 
 date:   2022-06-29
 categories: graphs+benghmarking
 comments: true
-authors: Saket Gurukar, Priyesh Vijayan, Srinivasan Parthasarathy, Balaraman Ravindran, Aakash Srinivasan, Goonmeet Bajaj, Chen Cai, Moniba Keymanesh, Saravana Kumar, Pranav Maneriker, Anasua Mitra, Vedang Patel
+authors: S Gurukar, P Vijayan, S Parthasarathy, B Ravindran, A Srinivasan, G Bajaj, C Cai, M Keymanesh, S Kumar, <b>P Maneriker</b>, A Mitra, V Patel
 conf: TMRL 2022
 link: https://openreview.net/forum?id=GvF9ktXI1V
-pdf: https://openreview.net/pdf?id=GvF9ktXI1V
+pdf: assets/papers/tmlr_2025_benchmarking.pdf
 tags-main: graph
 ---
 

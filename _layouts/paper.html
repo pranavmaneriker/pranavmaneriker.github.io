@@ -7,7 +7,6 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.conf }} • {{ page.date | date: "%b %-d, %Y" }}{% if page.authors %} • {{ page.authors }}{% endif %} {%if page.special %} • {{ page.special }} {% endif %} {%if page.pagespecial %} • {{ page.pagespecial }} {% endif %} {%if page.video_links} {% for vlink in page.video_links} • <a href="{{ vlink }}"> Video </a> {% endfor %} {% endif %}</p>
   </header>
-    <br>
     {% if page.pdf %} <a href="{{ page.pdf }}"> [PDF] </a> {% endif %}
     {% if page.link %} <a href="{{ page.link }}"> [Publication Link] </a> {% endif %}
     {% if page.code %} <a href="{{ page.code }}"> [Code] </a> {% endif %}
