@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Interactive Fairness Auditing: Leveraging AVOIR for Dynamic Evaluation and Mitigation"
-date:   2025-04-12
+date:   2025-06-22
 categories: avoir demo
 comments: true
-authors: A Meghrazi, <b>P Maneriker<.b>, S Padhee, S Parthasarathy
+authors: A Meghrazi, <b>P Maneriker</b>, S Padhee, S Parthasarathy
 conf: SIGMOD 2025 Demo (to appear)
 link: https://doi.org/10.1145/3722212.3725108
 tags-main: avoir demo
