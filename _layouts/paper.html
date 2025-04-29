@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.conf }} • {{ page.date | date: "%b %-d, %Y" }}{% if page.authors %} • {{ page.authors }}{% endif %} {%if page.special %} • {{ page.special }} {% endif %} {%if page.pagespecial %} • {{ page.pagespecial }} {% endif %} {%if page.video_links} {% for vlink in page.video_links} • <a href="{{ vlink }}"> Video </a> {% endfor %} {% endif %}</p>
+    <p class="post-meta">{{ page.conf }} • {{ page.date | date: "%b %-d, %Y" }}{% if page.authors %} • {{ page.authors }}{% endif %} {%if page.special %} • {{ page.special }} {% endif %} {%if page.pagespecial %} • {{ page.pagespecial }} {% endif %} {%if page.video_links %} {% for vlink in page.video_links %} • <a href="{{ vlink }}"> Video </a> {% endfor %} {% endif %}</p>
   </header>
     {% if page.pdf %} <a href="{{ page.pdf }}"> [PDF] </a> {% endif %}
     {% if page.link %} <a href="{{ page.link }}"> [Publication Link] </a> {% endif %}
@@ -25,7 +25,7 @@ layout: default
 		/* * * DON'T EDIT BELOW THIS LINE * * */
 		(function() {
 		    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		    dsq.src = '//' + disqus_short name + '.disqus.com/embed.js';
 		    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 		})();
 	    </script>

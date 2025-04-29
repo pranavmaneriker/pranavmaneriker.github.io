@@ -4,7 +4,7 @@ title: "A Generic Framework for Conformal Fairness"
 date:   2025-01-22
 categories: conformal-prediction graphs fairness auditing
 comments: true
-authors: Aditya T. Vadlamani&#42;, Anutam Srinivasan&#42;, <b>Pranav Maneriker</b>, Ali Payani, Srinivasan Parthasarathy
+authors: A Vadlamani&#42;, A Srinivasan&#42;, <b>P Maneriker</b>, A Payani, S Parthasarathy
 conf: ICLR 2025
 pagespecial: (&#42;shared first authorship)
 link: https://openreview.net/forum?id=Ed1DBB3sBxiQNfYl33p
