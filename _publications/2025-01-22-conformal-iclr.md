@@ -7,7 +7,7 @@ comments: true
 authors: A Vadlamani&#42;, A Srinivasan&#42;, <b>P Maneriker</b>, A Payani, S Parthasarathy
 conf: ICLR 2025
 pagespecial: (&#42;shared first authorship)
-link: https://openreview.net/forum?id=Ed1DBB3sBxiQNfYl33p
+link: https://openreview.net/forum?id=xiQNfYl33p
 pdf: /assets/papers/iclr_2025_conformal.pdf
 tags-main: conformal, graph
 ---
