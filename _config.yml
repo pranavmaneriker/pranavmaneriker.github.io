@@ -8,6 +8,8 @@ baseurl: "" #config for local testing
 url: "" # the base hostname & protocol for your site
 github_username:  pranavmaneriker
 orcid: 0000-0003-1333-4424
+scholar_id:  9t8gbkkAAAAJ
+linkedin_id: pranav-maneriker
 footertitle: Contact
 future: true
 collections:

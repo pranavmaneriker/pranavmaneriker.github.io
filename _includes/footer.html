@@ -5,9 +5,8 @@
     <h2 class="footer-heading">{{ site.footertitle }}</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
+      <div class="footer-col  footer-col-4">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }} </a></li>
         </ul>
@@ -41,9 +40,38 @@
           </li>
           {% endif %}
 
+
         </ul>
       </div>
 
+      <div class="footer-col  footer-col-4">
+        <ul class="social-media-list">
+            {% if site.scholar_id %}
+            <li>
+              <a href="https://scholar.google.com/citations?hl=en&user={{ site.scholar_id }}&view_op=list_works&sortby=pubdate">
+                <span class="icon  icon-github">
+                  <img width="16" alt="Scholar ID" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg">
+                </span>
+
+                <span class="username">Google Scholar</span>
+
+            </li>
+            {% endif %}
+
+
+            {% if site.linkedin_id %}
+            <li>
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_id }}">
+                <span class="icon  icon-github">
+                  <img width="16" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
+                </span>
+
+                <span class="username">Linkedin </span>
+
+            </li>
+            {% endif %}
+        </ul>
+      </div>
     </div>
 
   </div>
