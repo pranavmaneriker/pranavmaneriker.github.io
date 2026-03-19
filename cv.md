@@ -4,10 +4,12 @@ title: CV
 permaink: /CV/
 ---
 
-(Last updated): April '25
-**[CV][resume full]**
-<!--**[Resume][r2page]** -->
+(Last updated): 
+
+**[CV][cv full]**
+
+**[Resume (single page)][r1page]**
 
 
-[resume full]:assets/cv_full.pdf
-[r2page]:assets/resume-2page.pdf
+[cv full]:assets/cv_full.pdf
+[r1page]:assets/resume.pdf
