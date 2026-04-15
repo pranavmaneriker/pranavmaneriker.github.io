@@ -4,7 +4,7 @@ title: CV
 permaink: /CV/
 ---
 
-(Last updated): 
+(Last updated): Mar '26
 
 **[CV][cv full]**
 

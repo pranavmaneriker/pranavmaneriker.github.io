@@ -5,7 +5,7 @@ date:   2025-06-22
 categories: avoir demo
 comments: true
 authors: A Meghrazi, <b>P Maneriker</b>, S Padhee, S Parthasarathy
-conf: SIGMOD 2025 Demo (to appear)
+conf: SIGMOD 2025 Demo
 link: https://doi.org/10.1145/3722212.3725108
 tags-main: avoir demo
 ---
